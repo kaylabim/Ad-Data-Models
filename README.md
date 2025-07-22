@@ -1,0 +1,3 @@
+# User Ad Interaction Predictions 
+
+Using features like age, time of day, ad positioning on the screen, and browsing history (from data from Kaggle: [Ad Click Prediction Dataset](https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data)), predicting user interactions with the ad (i.e. clicking) and comparing prediction capabilities of Random Froest, XGBoost, and Decision Tree Classifier models. 
